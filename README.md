@@ -1,3 +1,3 @@
-# CMMInterpreter
+# CalInterpreter
 
-简单的CMM编译器
+简单的计算器，词法语法分析
